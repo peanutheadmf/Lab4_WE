@@ -1,0 +1,60 @@
+/*External CSS*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/*This is a comment for H1*/
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}
+
+
+/*This comment affects every paragraph*/
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+
+/*This comment affects the body of the website*/
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+    /*CSS Background*/
+    background-color: aliceblue;
+}
+
+
+/*This comment affects the lists*/
+
+ul {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+#para1 {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+
+/*Unvisited Link Color*/
+
+a:link {
+    color: hotpink;
+}

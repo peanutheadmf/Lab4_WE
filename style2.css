@@ -1,0 +1,54 @@
+/*External CSS*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: rgb(41, 109, 24);
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: left;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+
+/*This is a comment for H1
+body {
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+    
+    background-color: aliceblue;
+}
+
+
+
+
+ul {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+
+#para1 {
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+
+
+
+a:link {
+    color: hotpink;
+}
+*/
